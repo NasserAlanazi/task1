@@ -1,0 +1,23 @@
+{
+  "name": "task1",
+  "version": "1.0.0",
+  "description": "tests the Node.js",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "dependencies": {
+    "express":"^4.17.1",
+    "pug": "^2.0.4"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/NasserAlanazi/task1.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/NasserAlanazi/task1/issues"
+  },
+  "homepage": "https://github.com/NasserAlanazi/task1#readme"
+}
